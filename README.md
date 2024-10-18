@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating educational games for autism and for all types of learners and I actually have some ideas going...
 - 📫 How to reach me vsaguindang1@gmail.com...
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I used chatgpt to help me set up on google colab and created codes for me for some projects. The gemini of google colab showed me error message which I sent it to chatgpt. It went back and forth like that and actually made a functional program without me knowing codes. That was fun for mme.  
+- ⚡ Fun fact: ...I used chatgpt to help me set up on google colab and created codes for me for some projects. The gemini of google colab showed me error messages which I sent it to chatgpt again for changes. It went back and forth like that and actually made a functional program without me knowing codes. That was so much fun for mme.  
 
 <!---
 VirSag/VirSag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
